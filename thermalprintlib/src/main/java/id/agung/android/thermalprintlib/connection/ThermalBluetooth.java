@@ -5,4 +5,5 @@ package id.agung.android.thermalprintlib.connection;
  */
 
 public class ThermalBluetooth {
+
 }
