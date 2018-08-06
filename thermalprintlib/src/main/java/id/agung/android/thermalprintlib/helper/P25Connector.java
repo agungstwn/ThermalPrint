@@ -16,7 +16,7 @@ import java.util.UUID;
 //P25 Printer Connection class
 
 public class P25Connector {
-    private BluetoothSocket mBluetoothSocket;
+    public BluetoothSocket mBluetoothSocket;
     private OutputStream mOutputStream;
 
     private Boolean mIsconnecting = false;
